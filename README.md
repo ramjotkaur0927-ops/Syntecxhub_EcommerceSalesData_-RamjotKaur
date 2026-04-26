@@ -1,4 +1,4 @@
-# Tableau Sales Dashboard
+# Ecommerce Sales Dashboard
 
 ## Overview
 This project analyzes sales performance using Tableau.
