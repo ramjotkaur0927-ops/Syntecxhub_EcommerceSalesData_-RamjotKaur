@@ -14,3 +14,6 @@ This project analyzes sales performance using Tableau.
 
 ## Dashboard
 [view Tableau Dashboard](https://public.tableau.com/views/Ecommercesalesdashboard_17771155230150/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## 👩‍💻 Author
+Ramjot Kaur — Data Analyst | BIA Data Science & AI
